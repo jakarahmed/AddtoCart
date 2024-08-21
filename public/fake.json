@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/Vqvq3m0/food-5975493-1920.jpg",
+      "title": "Sunset Over the Mountains",
+      "description": "A beautiful sunset over the mountain range with vibrant colors."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/6gD0LgW/curry-7249247-1920.jpg",
+      "title": "City Skyline at Night",
+      "description": "A stunning view of the city skyline illuminated at night."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/9VhztDk/images.jpg",
+      "title": "Serene Beach",
+      "description": "A tranquil beach with golden sands and crystal-clear waters."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/BZ2LZTG/mint-about-company.png",
+      "title": "Forest Path",
+      "description": "A peaceful path through a dense forest, surrounded by tall trees."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/Fs6TBS7/Screenshot-1.jpg",
+      "title": "Desert Dunes",
+      "description": "Expansive sand dunes under a clear blue sky in the desert."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/9ry723y/taco-1018962-1920.jpg",
+      "title": "Mountain Lake",
+      "description": "A serene mountain lake reflecting the surrounding peaks."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/DKrhzFf/spices-370114-1920.jpg",
+      "title": "Autumn Leaves",
+      "description": "Colorful autumn leaves covering the ground in a forest."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/BLBN31t/salmon-6353898-1920.jpg",
+      "title": "Snowy Landscape",
+      "description": "A snow-covered landscape with pine trees and mountains in the distance."
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/2NbDc36/download-6.jpg",
+      "title": "Tropical Island",
+      "description": "A remote tropical island with palm trees and turquoise waters."
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/4Mygt5J/download-1.jpg",
+      "title": "Urban Street Art",
+      "description": "Vibrant street art murals on the walls of an urban neighborhood."
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/KXJhxrd/download-2.jpg",
+      "title": "Flower Garden",
+      "description": "A colorful garden filled with blooming flowers of various kinds."
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/8DP9LP2/download-3.jpg",
+      "title": "Historic Castle",
+      "description": "An ancient castle perched on a hill, overlooking the countryside."
+    },
+    {
+      "id": 13,
+      "img": "https://i.ibb.co/vxzpxJv/book-wall-1151405-1920.jpg",
+      "title": "Rocky Coastline",
+      "description": "Waves crashing against a rugged, rocky coastline."
+    },
+    {
+      "id": 14,
+      "img": "https://i.ibb.co/RNdj0f1/download-4.jpg",
+      "title": "Vibrant City Market",
+      "description": "A bustling market with vendors selling fresh produce and handmade goods."
+    },
+    {
+      "id": 15,
+      "img": "https://i.ibb.co/2jYhkGV/download-5.jpg",
+      "title": "Mountain Sunrise",
+      "description": "The sun rising over a mountain range, casting a golden glow."
+    },
+    {
+      "id": 16,
+      "img": "https://i.ibb.co/P9mvJSk/interior-2685521-1920.jpg",
+      "title": "Rainforest Waterfall",
+      "description": "A waterfall cascading through a lush rainforest."
+    },
+    {
+      "id": 17,
+      "img": "https://i.ibb.co/bBj2ZzQ/house-1836070-1920.jpg",
+      "title": "Snow-Capped Peaks",
+      "description": "Distant snow-capped mountains under a clear blue sky."
+    },
+    {
+      "id": 18,
+      "img": "https://i.ibb.co/Q8KQ9Mh/house-1477041-1920.jpg",
+      "title": "Sunny Meadow",
+      "description": "A bright and sunny meadow filled with wildflowers."
+    },
+    {
+      "id": 19,
+      "img": "https://i.ibb.co/r2BQS6y/home-2486092-1920.jpg",
+      "title": "Historic Bridge",
+      "description": "An old stone bridge spanning a tranquil river."
+    },
+    {
+      "id": 20,
+      "img": "https://i.ibb.co/WgRQ1Dq/villa-4555824-1920.jpg",
+      "title": "City Park in Autumn",
+      "description": "A city park with trees displaying brilliant autumn colors."
+    }
+  ]
+  
